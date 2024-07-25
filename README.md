@@ -26,7 +26,7 @@ Make sure you have the following installed:
 
    ```
    git clone https://github.com/ITSHAYDER/To-do-app-Flask.git
-   cd your-repository-name
+   cd To-do-app-Flask
    ```
 2. Set up the Python environment:
    ```
